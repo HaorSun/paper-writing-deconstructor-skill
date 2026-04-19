@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Writing Deconstructor"
+  short_description: "Deconstruct papers into writing moves"
+  default_prompt: "Use $paper-writing-deconstructor to deconstruct this paper excerpt and extract transferable writing patterns."
