@@ -1,5 +1,7 @@
 # Paper Writing Deconstructor
 
+[中文说明](README.zh-CN.md)
+
 Paper Writing Deconstructor is a Codex skill for learning academic writing by deconstructing research papers as layered argument systems.
 
 It is designed for users who want to read papers not only for content, but for writing: how a paper frames a problem, organizes sections, develops paragraphs, uses sentences rhetorically, and turns those patterns into reusable writing resources.
